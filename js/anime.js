@@ -1,7 +1,7 @@
 // Api urls
 
 const infoapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/info/";
-const epapi = "https://consumet-api-qdef.onrender.com/gogo/episodes/";
+const epapi = "https://api.techzbots1.workers.dev/gogo/episodes/";
 const searchapi = "https://consumet-api-qdef.onrender.com/meta/anilist/";
 const anilistinfoapi = "https://consumet-api-qdef.onrender.commeta/anilist/info/";
 const gogosearchapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/";

@@ -1,5 +1,5 @@
-const streamapi = "https://techzapi2.vercel.app/anime/gogoanime/watch/";
-const serversapi = "https://techzapi2.vercel.app/anime/gogoanime/servers/";
+const streamapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/watch/";
+const serversapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/servers/";
 const epapi = "https://api.techzbots1.workers.dev/gogo/episodes/";
 const dlapi = "https://api.techzbots1.workers.dev/gogo/dl/";
 

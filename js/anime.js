@@ -1,10 +1,10 @@
 // Api urls
 
-const infoapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/info/";
+const infoapi = "https://webdis-k35y.onrender.com/anime/gogoanime/info/";
 const epapi = "https://api.techzbots1.workers.dev/gogo/episodes/";
-const searchapi = "https://consumet-api-qdef.onrender.com/meta/anilist/";
-const anilistinfoapi = "https://consumet-api-qdef.onrender.commeta/anilist/info/";
-const gogosearchapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/";
+const searchapi = "https://webdis-k35y.onrender.com/meta/anilist/";
+const anilistinfoapi = "https://webdis-k35y.onrender.com/anilist/info/";
+const gogosearchapi = "https://webdis-k35y.onrender.com/anime/gogoanime/";
 
 // Usefull functions
 

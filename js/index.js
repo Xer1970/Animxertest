@@ -1,10 +1,10 @@
 // Api urls
 
 const trendingapi =
-    "https://consumet-api-qdef.onrender.com/meta/anilist/trending?perPage=10";
-const popularapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/top-airing";
+    "https://webdis-k35y.onrender.com/meta/anilist/trending?perPage=10";
+const popularapi = "https://webdis-k35y.onrender.com/anime/gogoanime/top-airing";
 const recentapi =
-    "https://consumet-api-qdef.onrender.com/anime/gogoanime/recent-episodes?page=";
+    "https://webdis-k35y.onrender.com/anime/gogoanime/recent-episodes?page=";
 
 // Usefull functions
 

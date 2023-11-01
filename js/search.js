@@ -1,4 +1,4 @@
-const searchapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/";
+const searchapi = "https://webdis-k35y.onrender.com/anime/gogoanime/";
 
 // Usefull functions
 

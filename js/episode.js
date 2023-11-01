@@ -1,5 +1,5 @@
-const streamapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/watch/";
-const serversapi = "https://consumet-api-qdef.onrender.com/anime/gogoanime/servers/";
+const streamapi = "https://webdis-k35y.onrender.com/anime/gogoanime/watch/";
+const serversapi = "https://webdis-k35y.onrender.com/anime/gogoanime/servers/";
 const epapi = "https://api.techzbots1.workers.dev/gogo/episodes/";
 const dlapi = "https://api.techzbots1.workers.dev/gogo/dl/";
 

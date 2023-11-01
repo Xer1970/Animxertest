@@ -1,7 +1,7 @@
 // Api urls
 
 const infoapi = "https://webdis-k35y.onrender.com/anime/gogoanime/info/";
-const epapi = "https://api.techzbots1.workers.dev/gogo/episodes/";
+const epapi = "https://webdis-k35y.onrender.com/gogo/episodes/";
 const searchapi = "https://webdis-k35y.onrender.com/meta/anilist/";
 const anilistinfoapi = "https://webdis-k35y.onrender.com/anilist/info/";
 const gogosearchapi = "https://webdis-k35y.onrender.com/anime/gogoanime/";
